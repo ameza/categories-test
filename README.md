@@ -1,2 +1,0 @@
-# categories-test
-categories-test
